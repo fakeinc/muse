@@ -12,7 +12,7 @@ Something you need not on this list or any color scheme (or theme) not optimized
 ## Included themes
 ### Muse
 #### Description
-* The meta theme.
+* The meta theme. It's edited on top of the default theme of Intellij Idea, but I've changed every entry I can think of.
 * It makes every highlighting meaningful. You'll find out that every similar highlights' category is similar. Don't worry, their difference are still easy to recognize.
 #### Showcase
 ![image](https://user-images.githubusercontent.com/30282312/58776568-4a076580-8599-11e9-9ad2-3eeb70c433e9.png)![image](https://user-images.githubusercontent.com/30282312/58776624-6dcaab80-8599-11e9-8fe7-61eb6090d5c1.png)
