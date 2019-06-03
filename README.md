@@ -1,6 +1,6 @@
 # Muse
 A set of color schemes and themes that made by me. Unleash your intelligence with these bright colors.
-## Supported languages, pulugins, ...
+## Supported languages, plugins, ...
 ### Languages
 Java SE, Java EE, JavaFX, and J2ME, Kotlin, Scala, Groovy, AspectJ, Python, JavaScript, Ruby, PHP, SQL, Go, TypeScript and CoffeeScript, Velocity and FreeMarker, XPath and XSLT, XML and XSL, HTML and XHTML, Markdown, JSON, Thymeleaf, Stylesheets (CSS, Less, Sass), Dart, Erlang.
 ### Plugins
