@@ -18,7 +18,7 @@ Something you need not on this list or any color scheme (or theme) not optimized
 ![image](https://user-images.githubusercontent.com/30282312/58776568-4a076580-8599-11e9-9ad2-3eeb70c433e9.png)![image](https://user-images.githubusercontent.com/30282312/58776624-6dcaab80-8599-11e9-8fe7-61eb6090d5c1.png)
 #### Recommended setup
 ##### Intellij
-* Disable sematic highlighting as it may cause confusion. However, it still tries to optimize it. So do not hesitate to enable it if you are adapted to it.
+* Disable semantic highlighting as it may cause confusion. However, it still tries to optimize it. So do not hesitate to enable it if you are adapted to it.
 * Use plugin [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets).
 ## More info about each theme
 They are in the same folder of the specific theme.
