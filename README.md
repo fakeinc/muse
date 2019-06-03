@@ -11,7 +11,7 @@ Debugger, Diff & Merge, VCS, Android Logcat, Diagrams, EditorConfig, Table Diff
 Something you need not on this list or any color scheme (or theme) not optimized for any of these? Feel free to submit an [issue](https://github.com/fakeinc/muse/issues/new) or [pull request](https://github.com/fakeinc/muse/compare).
 ## Included themes
 ### Muse
-#### Descriptions
+#### Description
 * The meta theme.
 * It makes every highlighting meaningful. You'll find out that every similar highlights' category is similar. Don't worry, their difference are still easy to recognize.
 #### Showcase
