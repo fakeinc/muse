@@ -19,7 +19,7 @@ Something you need not on this list or any color scheme (or theme) not optimized
 #### Recommended setup
 ##### Intellij
 * Disable semantic highlighting as it may cause confusion. However, it still tries to optimize it. So do not hesitate to enable it if you are adapted to it.
-* Use plugin [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets).
+* ~~Use plugin [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets).~~ It changes the valule of "Matched braces" on each startup. This is so confusing and time-taking. I was thinking that I missed it and changed it every time the IDE restarts. However, use it if you are not picky about this or you want to follow [this instruction](https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/180) to disable this behavior. Now the best option should be waiting for the maintainers to fix it.
 ## More info about each theme
 They are in the same folder of the specific theme.
 These includes more pictures of the theme.
