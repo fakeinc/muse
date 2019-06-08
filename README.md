@@ -16,9 +16,9 @@ Something you need not on this list or any color scheme (or theme) not optimized
 * It makes every highlighting meaningful. You'll find out that every similar highlights' category is similar. Don't worry, their difference are still easy to recognize.
 #### Showcase
 
-![General](Color Schemes/Light/Intellij/Muse/General.jpg)
+![General](Color%20Schemes/Light/Intellij/Muse/General.jpg)
 
-![Language Defaults](Color Schemes/Light/Intellij/Muse/Language Defaults.jpg)
+![Language Defaults](Color%20Schemes/Light/Intellij/Muse/Language%20Defaults.jpg)
 #### Recommended setup
 ##### Intellij
 * Disable semantic highlighting as it may cause confusion. However, it still tries to optimize it. So do not hesitate to enable it if you are adapted to it.
