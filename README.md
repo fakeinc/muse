@@ -19,7 +19,16 @@ Something you need not on this list or any color scheme (or theme) not optimized
 #### Recommended setup
 ##### Intellij
 * Disable semantic highlighting as it may cause confusion. However, it still tries to optimize it. So do not hesitate to enable it if you are adapted to it.
-* ~~Use plugin [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets).~~ It changes the valule of "Matched braces" on each startup. This is so confusing and time-taking. I was thinking that I missed it and changed it every time the IDE restarts. However, use it if you are not picky about this or you want to follow [this instruction](https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/180) to disable this behavior. Now the best option should be waiting for the maintainers to fix it.
+* ~~Use plugin [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets).~~ It changes the value of "Matched braces" on each startup. This is so confusing and time-taking. I was thinking that I missed it and changed it every time the IDE restarts. However, use it if you are not picky about this or you want to follow [this instruction](https://github.com/izhangzhihao/intellij-rainbow-brackets/issues/180) to disable this behavior. Now the best option should be waiting for the maintainers to fix it.
+
+#### Known issues
+
+##### Non-specific
+
+* Debugger part is not customized since for now I don't have any idea on it. Help wanted.
+* Perl5 code does not have an elegant enough look. If you use it as your main developing language, check [this screenshot](https://filedn.com/lWjJaj8Xt0obbuqzr3sbsCy/Share/screenshot_20190608_072917.png) out before using it. Language specific variables are not customized. Help wanted.
+* Ruby is too purple. If you need to use [this](https://filedn.com/lWjJaj8Xt0obbuqzr3sbsCy/Share/screenshot_20190608_073508.png) for several hours, it might ends up hurting your eyes. Help wanted.
+
 ## More info about each theme
 They are in the same folder of the specific theme.
 These includes more pictures of the theme.
