@@ -15,7 +15,10 @@ Something you need not on this list or any color scheme (or theme) not optimized
 * The meta theme. It's edited on top of the default theme of Intellij Idea, but I've changed every entry I can think of.
 * It makes every highlighting meaningful. You'll find out that every similar highlights' category is similar. Don't worry, their difference are still easy to recognize.
 #### Showcase
-![image](https://user-images.githubusercontent.com/30282312/58776568-4a076580-8599-11e9-9ad2-3eeb70c433e9.png)![image](https://user-images.githubusercontent.com/30282312/58776624-6dcaab80-8599-11e9-8fe7-61eb6090d5c1.png)
+
+![General](Color Schemes/Light/Intellij/Muse/General.jpg)
+
+![Language Defaults](Color Schemes/Light/Intellij/Muse/Language Defaults.jpg)
 #### Recommended setup
 ##### Intellij
 * Disable semantic highlighting as it may cause confusion. However, it still tries to optimize it. So do not hesitate to enable it if you are adapted to it.
@@ -32,6 +35,7 @@ Something you need not on this list or any color scheme (or theme) not optimized
 ## More info about each theme
 They are in the same folder of the specific theme.
 These includes more pictures of the theme.
+
 ## Usage
 ### Color schemes
 #### Intellij
