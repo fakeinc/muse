@@ -42,7 +42,7 @@ These includes more pictures of the theme.
 ### Color schemes
 #### IntelliJ
 ##### .icls
-1. Navigate to <span title="You can use keyboard shortcut 'Ctrl + Alt + S' if you want.">File/Settings/</span>Color Scheme/<span title="It's in the 'Settings' button">Import Scheme/</span>Intellij IDEA color scheme (.icls) or settings (.jar).
+1. Navigate to <span title="You can use keyboard shortcut 'Ctrl + Alt + S' if you want.">File/Settings/</span>Color Scheme/<span title="It's in the 'Settings' button">Import Scheme/</span>IntelliJ IDEA color scheme (.icls) or settings (.jar).
 2. In the shown Dialog, choose this file, double click, press the enter key.
 ##### .jar
 There are two viable approaches:
