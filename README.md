@@ -1,9 +1,16 @@
 # Muse
 A set of coding color schemes and themes. Unleash your intelligence with these bright colors.
+## Downloads
+### General
+Get it from [Github's release page](https://github.com/fakeinc/muse/releases).
+### IntelliJ
+Get it from my [author profile](https://plugins.jetbrains.com/author/9cda6f6a-34d3-4e57-b0bd-822760d7bb36).
+Note that the plugin [Muse Color Scheme](https://plugins.jetbrains.com/plugin/12500-muse-color-scheme) is deprecated because of a change in namming. Use [Muse Light Color Scheme](https://plugins.jetbrains.com/plugin/12527-muse-light-color-scheme) instead.
 ## Supported languages, plugins, ...
 ### Languages
 Java SE, Java EE, JavaFX, and J2ME, Kotlin, Scala, Groovy, AspectJ, Python, JavaScript, Ruby, PHP, SQL, Go, TypeScript and CoffeeScript, Velocity and FreeMarker, XPath and XSLT, XML and XSL, HTML and XHTML, Markdown, JSON, Thymeleaf, Stylesheets (CSS, Less, Sass), Dart, Erlang.
 ### Plugins
+#### IntelliJ
 ~~Rainbow Brackets~~ (See below.), ignore files, Git ToolBox.
 ### Misc
 Debugger, Diff & Merge, VCS, Android Logcat, Diagrams, EditorConfig, Table Diff.
