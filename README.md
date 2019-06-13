@@ -21,6 +21,8 @@ Something you need not on this list or any color scheme (or theme) not optimized
 #### Description
 * The meta theme. It's edited on top of the default theme of IntelliJ Idea, but I've changed every entry I can think of.
 * It makes every highlighting meaningful. You'll find out that every similar highlights' category is similar. Don't worry, their difference are still easy to recognize.
+#### Downloads
+[Muse Light IntelliJ Color Scheme](https://plugins.jetbrains.com/plugin/12527-muse-light-color-scheme), [Muse Dark IntelliJ Color Scheme](https://plugins.jetbrains.com/plugin/12542-muse-dark-color-scheme).
 #### Showcase
 ##### Light
 ![General](Color%20Schemes/Light/IntelliJ/Muse/General.jpg)
