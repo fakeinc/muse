@@ -1,9 +1,9 @@
 <scheme name="Muse Dark" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-06-09T15:14:12</property>
+    <property name="created">2019-06-13T21:14:14</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-06-09T15:14:34</property>
+    <property name="ideVersion">2019.2.0.0</property>
+    <property name="modified">2019-06-13T21:14:33</property>
     <property name="originalScheme">Muse Dark</property>
   </metaInfo>
   <colors>
@@ -102,7 +102,7 @@
         <option name="FOREGROUND" value="5efc82" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="BASH.FUNCTION_CALL" baseAttributes="" />
     <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="BASH.HERE_DOC">
       <value>
@@ -176,8 +176,8 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3a2323" />
-        <option name="ERROR_STRIPE_COLOR" value="664233" />
+        <option name="BACKGROUND" value="560027" />
+        <option name="ERROR_STRIPE_COLOR" value="c51162" />
       </value>
     </option>
     <option name="BUILDOUT.SECTION_NAME">
@@ -398,22 +398,25 @@
     </option>
     <option name="DEBUGGER_INLINED_VALUES">
       <value>
-        <option name="FOREGROUND" value="666d75" />
+        <option name="FOREGROUND" value="af8eb5" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
       <value>
-        <option name="FOREGROUND" value="7b94b3" />
+        <option name="FOREGROUND" value="af8eb5" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES_MODIFIED">
       <value>
-        <option name="FOREGROUND" value="ca7e03" />
+        <option name="FOREGROUND" value="af8eb5" />
         <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="757575" />
       </value>
     </option>
+    <option name="DEBUGGER_SMART_STEP_INTO_SELECTION" baseAttributes="LIVE_TEMPLATE_ATTRIBUTES" />
+    <option name="DEBUGGER_SMART_STEP_INTO_TARGET" baseAttributes="SEARCH_RESULT_ATTRIBUTES" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="64c1ff" />
@@ -647,25 +650,25 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="cb9ca1" />
+        <option name="BACKGROUND" value="795d60" />
         <option name="ERROR_STRIPE_COLOR" value="ffcdd2" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="757575" />
+        <option name="BACKGROUND" value="424242" />
         <option name="ERROR_STRIPE_COLOR" value="a4a4a4" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="448857" />
+        <option name="BACKGROUND" value="285134" />
         <option name="ERROR_STRIPE_COLOR" value="e676" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="4482cb" />
+        <option name="BACKGROUND" value="284e79" />
         <option name="ERROR_STRIPE_COLOR" value="82b1ff" />
       </value>
     </option>
@@ -692,8 +695,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="ERL_MACRO" baseAttributes="DEFAULT_STATIC_FIELD" />
-    <option name="ERL_VARIABLES" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff5252" />
@@ -703,17 +704,17 @@
     </option>
     <option name="EVALUATED_EXPRESSION_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="424242" />
+        <option name="BACKGROUND" value="757575" />
       </value>
     </option>
     <option name="EVALUATED_EXPRESSION_EXECUTION_LINE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="474747" />
+        <option name="BACKGROUND" value="9e9e9e" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2d6099" />
+        <option name="BACKGROUND" value="2f6c" />
       </value>
     </option>
     <option name="FLUTTER_LOG_CONFIG_OUTPUT">
@@ -1143,7 +1144,6 @@
     <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
-        <option name="EFFECT_COLOR" value="ffffff" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1390,7 +1390,7 @@
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2f3f55" />
+        <option name="BACKGROUND" value="51" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
