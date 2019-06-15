@@ -1,9 +1,9 @@
 <scheme name="Muse Light" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-06-08T07:39:36</property>
+    <property name="created">2019-06-13T21:20:14</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-06-08T07:40:01</property>
+    <property name="ideVersion">2019.2.0.0</property>
+    <property name="modified">2019-06-13T21:20:30</property>
     <property name="originalScheme">Muse Light</property>
   </metaInfo>
   <colors>
@@ -36,8 +36,8 @@
     <option name="SELECTED_TEARLINE_COLOR" value="c8e6c9" />
     <option name="SELECTION_BACKGROUND" value="ede7f6" />
     <option name="SELECTION_FOREGROUND" value="" />
-    <option name="SEPARATOR_ABOVE_COLOR" value="ffffb3" />
-    <option name="SEPARATOR_BELOW_COLOR" value="ffd0b0" />
+    <option name="SEPARATOR_ABOVE_COLOR" value="b6b4b6" />
+    <option name="SEPARATOR_BELOW_COLOR" value="b6b4b6" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="2962ff" />
     <option name="TEARLINE_COLOR" value="ffffff" />
     <option name="TOOLTIP" value="ffffff" />
@@ -99,7 +99,7 @@
         <option name="FOREGROUND" value="9624" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="BASH.FUNCTION_CALL" baseAttributes="" />
     <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="BASH.HERE_DOC">
       <value>
@@ -170,6 +170,12 @@
       <value>
         <option name="FOREGROUND" value="616161" />
         <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="BREAKPOINT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="ffebee" />
+        <option name="ERROR_STRIPE_COLOR" value="ffb2dd" />
       </value>
     </option>
     <option name="BUILDOUT.SECTION_NAME">
@@ -388,6 +394,28 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEBUGGER_INLINED_VALUES">
+      <value>
+        <option name="FOREGROUND" value="9c64a6" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
+      <value>
+        <option name="FOREGROUND" value="9c64a6" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEBUGGER_INLINED_VALUES_MODIFIED">
+      <value>
+        <option name="FOREGROUND" value="9c64a6" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="9e9e9e" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEBUGGER_SMART_STEP_INTO_SELECTION" baseAttributes="LIVE_TEMPLATE_ATTRIBUTES" />
+    <option name="DEBUGGER_SMART_STEP_INTO_TARGET" baseAttributes="SEARCH_RESULT_ATTRIBUTES" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="64b7" />
@@ -659,6 +687,22 @@
       <value>
         <option name="FOREGROUND" value="9624" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="EVALUATED_EXPRESSION_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="e0e0e0" />
+      </value>
+    </option>
+    <option name="EVALUATED_EXPRESSION_EXECUTION_LINE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="bdbdbd" />
+      </value>
+    </option>
+    <option name="EXECUTIONPOINT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="e1f5fe" />
+        <option name="ERROR_STRIPE_COLOR" value="80d8ff" />
       </value>
     </option>
     <option name="FLUTTER_LOG_CONFIG_OUTPUT">
@@ -1052,6 +1096,11 @@
       </value>
     </option>
     <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
+    <option name="KOTLIN_MUTABLE_VARIABLE">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="dd2c00" />
@@ -1252,6 +1301,11 @@
       <value>
         <option name="BACKGROUND" value="b9f6ca" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="NOT_TOP_FRAME_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="e1f5fd" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
