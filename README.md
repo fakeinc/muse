@@ -1,9 +1,16 @@
 # Muse
 A set of coding color schemes and themes. Unleash your intelligence with these bright colors.
+## Downloads
+### General
+Get it from [Github's release page](https://github.com/fakeinc/muse/releases).
+### IntelliJ
+Get it from my [author profile](https://plugins.jetbrains.com/author/9cda6f6a-34d3-4e57-b0bd-822760d7bb36).
+Note that the plugin [Muse Color Scheme](https://plugins.jetbrains.com/plugin/12500-muse-color-scheme) is deprecated because of a change in naming. Use [Muse Light Color Scheme](https://plugins.jetbrains.com/plugin/12527-muse-light-color-scheme) instead.
 ## Supported languages, plugins, ...
 ### Languages
 Java SE, Java EE, JavaFX, and J2ME, Kotlin, Scala, Groovy, AspectJ, Python, JavaScript, Ruby, PHP, SQL, Go, TypeScript and CoffeeScript, Velocity and FreeMarker, XPath and XSLT, XML and XSL, HTML and XHTML, Markdown, JSON, Thymeleaf, Stylesheets (CSS, Less, Sass), Dart, Erlang.
 ### Plugins
+#### IntelliJ
 ~~Rainbow Brackets~~ (See below.), ignore files, Git ToolBox.
 ### Misc
 Debugger, Diff & Merge, VCS, Android Logcat, Diagrams, EditorConfig, Table Diff.
@@ -14,6 +21,8 @@ Something you need not on this list or any color scheme (or theme) not optimized
 #### Description
 * The meta theme. It's edited on top of the default theme of IntelliJ Idea, but I've changed every entry I can think of.
 * It makes every highlighting meaningful. You'll find out that every similar highlights' category is similar. Don't worry, their difference are still easy to recognize.
+#### Downloads
+[Muse Light IntelliJ Color Scheme](https://plugins.jetbrains.com/plugin/12527-muse-light-color-scheme), [Muse Dark IntelliJ Color Scheme](https://plugins.jetbrains.com/plugin/12542-muse-dark-color-scheme).
 #### Showcase
 ##### Light
 ![General](Color%20Schemes/Light/IntelliJ/Muse/General.jpg)
@@ -42,7 +51,7 @@ These includes more pictures of the theme.
 ### Color schemes
 #### IntelliJ
 ##### .icls
-1. Navigate to <span title="You can use keyboard shortcut 'Ctrl + Alt + S' if you want.">File/Settings/</span>Color Scheme/<span title="It's in the 'Settings' button">Import Scheme/</span>Intellij IDEA color scheme (.icls) or settings (.jar).
+1. Navigate to <span title="You can use keyboard shortcut 'Ctrl + Alt + S' if you want.">File/Settings/</span>Color Scheme/<span title="It's in the 'Settings' button">Import Scheme/</span>IntelliJ IDEA color scheme (.icls) or settings (.jar).
 2. In the shown Dialog, choose this file, double click, press the enter key.
 ##### .jar
 There are two viable approaches:
