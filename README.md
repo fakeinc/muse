@@ -39,7 +39,7 @@ Something you need not on this list or any color scheme (or theme) not optimized
 
 ##### Non-specific
 
-* Debugger part is not customized since for now I don't have any idea on it. Help wanted.
+* ~~Debugger part is not customized since for now I don't have any idea on it.~~(Now customized with 1.2.2.) However I'm not so sure about this one. Help wanted.
 * Perl5 code does not have an elegant enough look. If you use it as your main developing language, check [this screenshot](https://filedn.com/lWjJaj8Xt0obbuqzr3sbsCy/Share/screenshot_20190608_072917.png) out before using it. Language specific variables are not customized. Help wanted.
 * Ruby is too purple. If you need to use [this](https://filedn.com/lWjJaj8Xt0obbuqzr3sbsCy/Share/screenshot_20190608_073508.png) for several hours, it might ends up hurting your eyes. Help wanted.
 
