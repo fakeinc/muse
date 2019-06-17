@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.idea/dictionaries" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/libraries" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Muse Light IntelliJ Theme/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
