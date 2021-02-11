@@ -1,10 +1,10 @@
-<scheme name="Muse Light" version="142" parent_scheme="Default">
+<scheme name="Muse Light 1.4.2" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-06-17T10:47:12</property>
+    <property name="created">2021-02-10T21:49:58</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-06-17T10:47:30</property>
-    <property name="originalScheme">Muse Light</property>
+    <property name="ideVersion">2020.3.2.0.0</property>
+    <property name="modified">2021-02-10T21:50:36</property>
+    <property name="originalScheme">Muse Light 1.4.2</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="69f0ae" />
@@ -14,6 +14,8 @@
     <option name="DELETED_LINES_COLOR" value="ff8a80" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="e0e0e0" />
     <option name="DOCUMENTATION_COLOR" value="ffffff" />
+    <option name="DOC_COMMENT_GUIDE" value="cccab5" />
+    <option name="DOC_COMMENT_LINK" value="26ca" />
     <option name="ERROR_HINT" value="ffffff" />
     <option name="GUTTER_BACKGROUND" value="f5f5f5" />
     <option name="HTML_TAG_TREE_LEVEL0" value="ff1744" />
@@ -82,6 +84,14 @@
       </value>
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="APACHE_CONFIG.ARG_LEXEM">
+      <value />
+    </option>
+    <option name="ASCIIDOC.HEADING">
+      <value>
+        <option name="BACKGROUND" value="e0f7fa" />
+      </value>
+    </option>
     <option name="BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff1744" />
@@ -99,7 +109,7 @@
         <option name="FOREGROUND" value="9624" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="BASH.FUNCTION_CALL" baseAttributes="" />
     <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="BASH.HERE_DOC">
       <value>
@@ -183,6 +193,9 @@
         <option name="FOREGROUND" value="aa00ff" />
         <option name="ERROR_STRIPE_COLOR" value="e254ff" />
       </value>
+    </option>
+    <option name="BUILDOUT.VALUE">
+      <value />
     </option>
     <option name="COFFEESCRIPT.HEREDOC_CONTENT">
       <value>
@@ -353,6 +366,29 @@
         <option name="FOREGROUND" value="ff6d00" />
       </value>
     </option>
+    <option name="CSV_DEFAULT_COMMA">
+      <value>
+        <option name="FOREGROUND" value="88a3" />
+        <option name="BACKGROUND" value="e0f7fa" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+    <option name="CSV_DEFAULT_QUOTE">
+      <value>
+        <option name="FOREGROUND" value="7200ca" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSV_DEFAULT_STRING">
+      <value />
+    </option>
+    <option name="CSV_ESCAPED_STRING">
+      <value>
+        <option name="FOREGROUND" value="c4001d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="39cb" />
@@ -474,14 +510,14 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="0" />
         <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="304ffe" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="BACKGROUND" value="ffff8d" />
+        <option name="BACKGROUND" value="fffde7" />
       </value>
     </option>
     <option name="DEFAULT_DOT">
@@ -530,6 +566,7 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
+        <option name="FOREGROUND" value="0" />
         <option name="EFFECT_COLOR" value="ff1744" />
         <option name="ERROR_STRIPE_COLOR" value="ff1744" />
         <option name="EFFECT_TYPE" value="2" />
@@ -672,6 +709,11 @@
         <option name="ERROR_STRIPE_COLOR" value="2979ff" />
       </value>
     </option>
+    <option name="DROOLS_KEYWORD_OPERATIONS">
+      <value>
+        <option name="FOREGROUND" value="73bf" />
+      </value>
+    </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value>
         <option name="EFFECT_COLOR" value="79b700" />
@@ -737,7 +779,7 @@
         <option name="FOREGROUND" value="757575" />
       </value>
     </option>
-    <option name="FLUTTER_LOG_SEVERE_OUTPUT" baseAttributes="CONSOLE_ERROR_OUTPUT" />
+    <option name="FLUTTER_LOG_SEVERE_OUTPUT" baseAttributes="" />
     <option name="FLUTTER_LOG_SHOUT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff1744" />
@@ -934,6 +976,18 @@
         <option name="FOREGROUND" value="647a" />
       </value>
     </option>
+    <option name="HTTP_REQUEST_DIFFERENCE_SIGN">
+      <value>
+        <option name="FOREGROUND" value="9624" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HTTP_REQUEST_INPUT_SIGN">
+      <value>
+        <option name="FOREGROUND" value="9624" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="HTTP_REQUEST_MULTIPART_BOUNDARY" baseAttributes="DEFAULT_DOC_COMMENT_TAG_VALUE" />
     <option name="HTTP_REQUEST_PARAMETER_NAME">
       <value>
@@ -1027,6 +1081,9 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="INI.VALUE">
+      <value />
+    </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="f5f7fe" />
@@ -1040,7 +1097,7 @@
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
         <option name="FOREGROUND" value="c43c00" />
-        <option name="BACKGROUND" value="b9f6ca" />
+        <option name="BACKGROUND" value="f4ff81" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
@@ -1065,7 +1122,12 @@
         <option name="ERROR_STRIPE_COLOR" value="e254ff" />
       </value>
     </option>
-    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
+    <option name="JUPYTER_INLINE_VALUES">
+      <value>
+        <option name="FOREGROUND" value="455a64" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="KOTLIN_BUILTIN_ANNOTATION">
       <value>
         <option name="FOREGROUND" value="7c91" />
@@ -1210,6 +1272,9 @@
         <option name="FOREGROUND" value="ff3d00" />
       </value>
     </option>
+    <option name="LOMBOK_VALUE">
+      <value />
+    </option>
     <option name="List/map to object conversion">
       <value>
         <option name="FOREGROUND" value="9624" />
@@ -1351,7 +1416,6 @@
       <value />
     </option>
     <option name="PERL_XSUB" baseAttributes="PERL_SUB" />
-    <option name="PHP_ALIAS_REFERENCE" baseAttributes="PHP_CLASS" />
     <option name="PHP_EXEC_COMMAND_ID">
       <value>
         <option name="FOREGROUND" value="9624" />
@@ -1516,9 +1580,15 @@
     <option name="RUBY_EXPR_IN_STRING" baseAttributes="DEFAULT_PARENTHS" />
     <option name="RUBY_GVAR" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="RUBY_HASH_ASSOC" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="RUBY_HASH_KEY">
+      <value>
+        <option name="FOREGROUND" value="7200ca" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="RUBY_HEREDOC_CONTENT">
       <value>
-        <option name="FOREGROUND" value="c4001d" />
+        <option name="FOREGROUND" value="bc5100" />
         <option name="BACKGROUND" value="f5f7fe" />
       </value>
     </option>
@@ -1531,6 +1601,11 @@
     <option name="RUBY_LINE_CONTINUATION" baseAttributes="DEFAULT_COMMA" />
     <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="RUBY_METHOD_NAME" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="RUBY_NTH_REF">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="RUBY_PARAMDEF_CALL">
       <value>
         <option name="FOREGROUND" value="aa00ff" />
@@ -1550,6 +1625,12 @@
         <option name="FOREGROUND" value="aa00ff" />
         <option name="BACKGROUND" value="fffde7" />
         <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="RUBY_SYMBOL">
+      <value>
+        <option name="FOREGROUND" value="7200ca" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RUNTIME_ERROR">
@@ -1574,13 +1655,13 @@
     <option name="SPY-JS.EXCEPTION">
       <value>
         <option name="BACKGROUND" value="ffebee" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="ffebee" />
       </value>
     </option>
     <option name="SPY-JS.FUNCTION_SCOPE">
       <value>
-        <option name="BACKGROUND" value="ffffbf" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="BACKGROUND" value="ffffce" />
+        <option name="EFFECT_COLOR" value="ffffbf" />
       </value>
     </option>
     <option name="SPY-JS.PATH_LEVEL_ONE">
@@ -1597,8 +1678,8 @@
     </option>
     <option name="SPY-JS.PROGRAM_SCOPE">
       <value>
-        <option name="BACKGROUND" value="fffde7" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="BACKGROUND" value="fffff7" />
+        <option name="EFFECT_COLOR" value="fffde7" />
       </value>
     </option>
     <option name="SPY-JS.VALUE_HINT">
@@ -1678,7 +1759,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="212121" />
         <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
@@ -1757,11 +1838,38 @@
       </value>
     </option>
     <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XPATH.FUNCTION" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="XPATH.XPATH_NAME">
+      <value>
+        <option name="FOREGROUND" value="7200ca" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="XPATH.XPATH_PREFIX">
+      <value>
+        <option name="FOREGROUND" value="647a" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="com.plan9.INSTRUCTION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="org.rust.ASSOC_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="aa00ff" />
+        <option name="BACKGROUND" value="fff3e0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.rust.CFG_DISABLED_CODE">
+      <value>
+        <option name="BACKGROUND" value="eceff1" />
+      </value>
+    </option>
     <option name="org.rust.DOC_CODE">
       <value>
         <option name="BACKGROUND" value="f5f7fe" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="org.rust.DOC_LINK">
@@ -1770,6 +1878,12 @@
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="26ca" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.rust.KEYWORD_UNSAFE">
+      <value>
+        <option name="FOREGROUND" value="647a" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="org.rust.LIFETIME">
@@ -1783,6 +1897,12 @@
         <option name="FOREGROUND" value="aa00ff" />
         <option name="BACKGROUND" value="fffde7" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.METHOD">
+      <value>
+        <option name="FOREGROUND" value="aa00ff" />
+        <option name="BACKGROUND" value="fff3e0" />
       </value>
     </option>
     <option name="org.rust.MODULE">
@@ -1806,6 +1926,24 @@
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
+    <option name="org.rust.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="647a" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.STRUCT">
+      <value>
+        <option name="FOREGROUND" value="f500f7" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.rust.TRAIT">
+      <value>
+        <option name="FOREGROUND" value="aa00ff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="org.rust.TYPE_PARAMETER">
       <value>
         <option name="FOREGROUND" value="304ffe" />
@@ -1814,7 +1952,9 @@
       </value>
     </option>
     <option name="org.rust.UNSAFE_CODE">
-      <value />
+      <value>
+        <option name="EFFECT_COLOR" value="647a" />
+      </value>
     </option>
   </attributes>
 </scheme>

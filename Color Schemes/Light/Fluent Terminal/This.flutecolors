@@ -1,0 +1,27 @@
+{
+  "Name": "Muse Light",
+  "Author": "fakeinc",
+  "Colors": {
+    "Foreground": "#000000",
+    "Background": "#FFFFFF",
+    "Cursor": "#000000",
+    "CursorAccent": "#FFFFFF",
+    "Selection": "rgba(237, 231, 246, 0.99609375)",
+    "Black": "#212121",
+    "Red": "#B71C1C",
+    "Green": "#1B5E20",
+    "Yellow": "#F57F17",
+    "Blue": "#0D47A1",
+    "Magenta": "#4A148C",
+    "Cyan": "#006064",
+    "White": "#E0E0E0",
+    "BrightBlack": "#9E9E9E",
+    "BrightRed": "#F44336",
+    "BrightGreen": "#4CAF50",
+    "BrightYellow": "#FFEB3B",
+    "BrightBlue": "#2196F3",
+    "BrightMagenta": "#9C27B0",
+    "BrightCyan": "#00BCD4",
+    "BrightWhite": "#FAFAFA"
+  }
+}
